@@ -1,5 +1,5 @@
 # Alexenferman
-A person interested in modding deivces through software modifications and custom firmwares or ROMs.
+A person interested in modding devices through software modifications, custom firmwares or ROMs.
 
 Websites:<br>
 www.alexenferman.com - Main Site<br>
