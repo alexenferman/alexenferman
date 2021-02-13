@@ -8,8 +8,7 @@ http://source.alexenferman.com - Private Repo for Source codes<br>
 https://old.alexenferman.com - Old site<br>
 
 Custom ROM releases and extras:<br>
-https://files.alexenferman.com/?/
+https://roms.alexenferman.com/?/
 
 Contact:<br>
-alex@alexenferman.com<br>
-https://www.alexenferman.com/about/contact
+Login to see E-Mail
